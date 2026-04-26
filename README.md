@@ -31,16 +31,22 @@ The model demonstrates that structural symmetry alone can induce global stabilit
 
 ## Citation
 
+If you use this work, please cite:
+
 ```bibtex
-@article{kao2026hlbm,
-  author = {Kao, Yao-Kai},
-  title = {Genesis 3D-HLBM: A Symmetry-Constrained Discrete Lattice Model with Bounded Energy Dynamics},
-  year = {2026},
-  doi = {10.5281/zenodo.19784150}
+@misc{kao2026hlbm,
+  author       = {Kao, Yao-Kai},
+  title        = {Genesis 3D-HLBM: A Symmetry-Constrained Discrete Lattice Model with Bounded Energy Dynamics},
+  year         = {2026},
+  doi          = {10.5281/zenodo.19784150},
+  url          = {https://doi.org/10.5281/zenodo.19784150}
 }
 
 
 ## Figures
 
-![Structure](3d_hlbm_structure.png)
-![Stability](clinical_lbm_hlbm_sigma.png)
+### Model Structure
+![Structure](figures/3d_hlbm_structure.png)
+
+### Stability Comparison
+![Stability](figures/clinical_lbm_hlbm_sigma.png)
