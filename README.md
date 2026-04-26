@@ -22,12 +22,15 @@ This work introduces a finite-dimensional discrete dynamical system defined on a
 
 The model demonstrates that structural symmetry alone can induce global stability.
 
+```markdown
 ## Key Features
 
-- Total energy invariant
-- Variance bounded
-- No numerical blow-up under strong forcing
-- Clear separation between constrained and unconstrained dynamics
+- Total energy invariant  
+- Variance bounded  
+- No numerical blow-up under strong forcing  
+- Clear separation between constrained and unconstrained dynamics  
+
+---
 
 ## Citation
 
@@ -41,11 +44,3 @@ If you use this work, please cite:
   doi          = {10.5281/zenodo.19784150},
   url          = {https://doi.org/10.5281/zenodo.19784150}
 }
-
-## Figures
-
-### Model Structure
-![Structure](figures/3d_hlbm_structure.png)
-
-### Stability Comparison
-![Stability](figures/clinical_lbm_hlbm_sigma.png)
