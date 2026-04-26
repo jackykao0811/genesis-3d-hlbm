@@ -42,7 +42,6 @@ If you use this work, please cite:
   url          = {https://doi.org/10.5281/zenodo.19784150}
 }
 
-
 ## Figures
 
 ### Model Structure
