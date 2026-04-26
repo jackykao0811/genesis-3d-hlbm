@@ -38,3 +38,9 @@ The model demonstrates that structural symmetry alone can induce global stabilit
   year = {2026},
   doi = {10.5281/zenodo.19784150}
 }
+
+
+## Figures
+
+![Structure](3d_hlbm_structure.png)
+![Stability](clinical_lbm_hlbm_sigma.png)
